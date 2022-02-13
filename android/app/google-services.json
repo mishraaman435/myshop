@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "414950242242",
+    "firebase_url": "https://my-library-aman435-default-rtdb.firebaseio.com",
+    "project_id": "my-library-aman435",
+    "storage_bucket": "my-library-aman435.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414950242242:android:02de1715bc1617e232c85b",
+        "android_client_info": {
+          "package_name": "rahasyamae.com.aman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414950242242-t0ac9n2eehnb0gtb53adsskld2rqa6ll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_uoVbw5a9kzReNUNLcRBetD6ScwzXuA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414950242242-t0ac9n2eehnb0gtb53adsskld2rqa6ll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414950242242:android:eefc25d922aa55ad32c85b",
+        "android_client_info": {
+          "package_name": "rahasyamae.com.myshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414950242242-t0ac9n2eehnb0gtb53adsskld2rqa6ll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_uoVbw5a9kzReNUNLcRBetD6ScwzXuA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414950242242-t0ac9n2eehnb0gtb53adsskld2rqa6ll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
